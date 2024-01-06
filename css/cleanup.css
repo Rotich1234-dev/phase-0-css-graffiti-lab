@@ -1,1 +1,21 @@
 /* write your override styles here */
+#wall{
+    display: none;
+    background-color: #a79b9b;
+}
+
+  .tag-1 {
+    border: 2px solid #3498db; 
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .parent {
+    margin-bottom: 20px; 
+  }
+  #tag-5.slick {
+    font-style: italic; 
+  }
+  #tag-5.slick{
+    color: pink;
+  }
